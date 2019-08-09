@@ -1,6 +1,6 @@
 # bungbungCar
 
-A auto driving car project using two MPU (master and slave)
+An auto driving car project using two MPUs (master and slave)
 The boards control the parts of the car(e.g. wheels, ultrasonic sensors, buzzer, etc.) and communicate each other when needed.
 The software architecture is like the following:
 
